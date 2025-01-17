@@ -17,12 +17,12 @@ A classic Snake game implemented using the Pygame library in Python. The game fe
 ## Installation 🔧
 
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/snake-game.git
-   ```
+  ``` bash
+  git clone https://github.com/badonix/pinky_snake_game
+  ```
 2. Install the required libraries:
   ``` bash
-    pip install pygame pygame_menu
+  pip install pygame pygame_menu
   ```
 
 ## How to Run 🚀
