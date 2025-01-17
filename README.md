@@ -37,7 +37,6 @@ Controls 🎮:
 
 ## Game Over 💥:
 - When the snake collides with itself or the wall, the game ends, and the score is displayed. 💀
-- The player can restart the game by selecting the "Play" button from the main menu after a game over.
 
 ## File Structure 🗂️:
 - `snake_game.py` : The main Python script containing the game's logic. 💻
